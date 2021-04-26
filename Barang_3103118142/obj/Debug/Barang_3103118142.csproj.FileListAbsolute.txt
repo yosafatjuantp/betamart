@@ -1,0 +1,11 @@
+D:\UKK\Barang_3103118142\Barang_3103118142\bin\Debug\barangni.mdb
+D:\UKK\Barang_3103118142\Barang_3103118142\bin\Debug\Barang_3103118142.exe.config
+D:\UKK\Barang_3103118142\Barang_3103118142\bin\Debug\Barang_3103118142.exe
+D:\UKK\Barang_3103118142\Barang_3103118142\bin\Debug\Barang_3103118142.pdb
+D:\UKK\Barang_3103118142\Barang_3103118142\obj\Debug\Barang_3103118142.csprojAssemblyReference.cache
+D:\UKK\Barang_3103118142\Barang_3103118142\obj\Debug\Barang_3103118142.Form1.resources
+D:\UKK\Barang_3103118142\Barang_3103118142\obj\Debug\Barang_3103118142.Properties.Resources.resources
+D:\UKK\Barang_3103118142\Barang_3103118142\obj\Debug\Barang_3103118142.csproj.GenerateResource.cache
+D:\UKK\Barang_3103118142\Barang_3103118142\obj\Debug\Barang_3103118142.csproj.CoreCompileInputs.cache
+D:\UKK\Barang_3103118142\Barang_3103118142\obj\Debug\Barang_3103118142.exe
+D:\UKK\Barang_3103118142\Barang_3103118142\obj\Debug\Barang_3103118142.pdb
